@@ -1,2 +1,4 @@
-# Mathmatical-Foundations-of-KFC
+# Mathmatical-Foundations-of-PKC
 《公钥密码学的数学基础》个人笔记存放处
+
+实际上，本文档中的内容主要参考《公钥密码学的数学基础（第二版）》这本书，同时也会参考《初等数论（第三版）》作为补充。
